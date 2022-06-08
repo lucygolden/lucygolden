@@ -1,4 +1,4 @@
-p# Hi there I'm Lucy 👋
+# Hi there I'm Lucy 👋
 ## This is what I like to do! 
 1. Play instruments
 2. Listen to music
